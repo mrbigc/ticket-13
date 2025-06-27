@@ -42,12 +42,3 @@ BlockPlus เป็น Add-on สำหรับ Minecraft Bedrock ที่เ�
   - ⚪ เทา = 5 HP
 
 ---
-
-## 📁 วิธีติดตั้ง
-1. เปิดไฟล์ `.mcaddon` ใน Minecraft
-2. เปิดใช้งาน Behavior Pack และ Resource Pack
-3. ตรวจสอบว่าเปิด Experimental Features:
-   - ✅ Holiday Creator Features
-   - ✅ Custom Components
-
----
